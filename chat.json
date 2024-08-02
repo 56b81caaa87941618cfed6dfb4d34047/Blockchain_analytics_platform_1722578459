@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the 'Hello World' button to trigger any specific action or is it purely for display purposes?\", \"option1\": \"Yes, it should trigger an action\", \"option2\": \"No, it's just for display\"}, {\"question 2\": \"Where on the app's interface do you envision placing the 'Hello World' button?\", \"option1\": \"In a prominent, central position on the main screen\", \"option2\": \"As part of a menu or settings page\"}], \"input_token_count\": 261, \"output_token_count\": 115, \"time_taken\": \"0:00:04.191695\"}",
+        "message_id": "guest02082024060223",
+        "timestamp": "02082024060229",
+        "component_file_name": "purple_header_component_1722578463",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Certainly, I will add a button that says \"Hello World\".",
         "message_id": "guest02082024060223",
